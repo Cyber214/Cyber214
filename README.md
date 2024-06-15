@@ -3,7 +3,14 @@
   <h2 style="color: #66fcf1;">About me:</h2>
   <h3 style="color: #fff;">I am an aspiring Software Engineer with foundational experience in both hardware and software development, troubleshooting, and continuous improvement. Seeking opportunities to contribute to organisational goals while fostering personal and professional growth.</h3>
 
-  <hr style="border: none; height: 1px; background-color: #c5c6c7; margin: 20px 0;">
+  <hr style="border: 1px solid #66fcf1; width: 80%;">
+
+  <div>
+    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyber214&show_icons=true&theme=blue-green" /></a>
+    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyber214&layout=compact&theme=dark&card_width=300" /></a>
+  </div>
+
+  <hr style="border: 1px solid #66fcf1; width: 80%;">
 
   <div>
     <h3 style="color: #66fcf1;">Contact Me:</h3>
@@ -11,14 +18,14 @@
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
     </a>
     <a href="https://github.com/Cyber214">
-      <img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/github/followers/Cyber214?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />
     </a>
     <a href="mailto:seun.dada777@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
     </a>
   </div>
 
-  <hr style="border: none; height: 1px; background-color: #c5c6c7; margin: 20px 0;">
+  <hr style="border: 1px solid #66fcf1; width: 80%;">
 
   <div>
     <h3 style="color: #66fcf1;">Comfortable working in:</h3>
@@ -26,35 +33,34 @@
       <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&for-the-badge&logo=macos&logoColor=F0F0F0" />
+      <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0" />
     </a>
   </div>
 
-  <hr style="border: none; height: 1px; background-color: #c5c6c7; margin: 20px 0;">
+  <hr style="border: 1px solid #66fcf1; width: 80%;">
 
   <div>
     <h3 style="color: #66fcf1;">Proficiencies:</h3>
-    <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&for-the-badge" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&for-the-badge&logo=react-router&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
-    <!-- <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery" /></a> -->
-    <!-- <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" /></a> -->
-    <!-- <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" /></a> -->
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   </div>
 </div>
