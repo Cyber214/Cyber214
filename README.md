@@ -1,7 +1,7 @@
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #2d2d2d; color: #e0e0e0; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); max-width: 800px; margin: 30px auto;">
 
   <h2 style="color: #66fcf1;">About me:</h2>
-  <h3 style="color: #fff;">I am an aspiring Software Engineer with foundational experience in both hardware and software development, troubleshooting, and continuous improvement. Seeking opportunities to contribute to organisational goals while fostering personal and professional growth.</h3>
+  <h4 style="color: #fff;">I am an aspiring Software Engineer with foundational experience in both hardware and software development, troubleshooting, and continuous improvement. Proficient in languages like Python, HTML, and JavaScript, I am passionate about solving technical challenges and creating efficient solutions in full-stack development and system architecture. I am eager to contribute my skills to organizational goals while fostering personal and professional growth in a collaborative environment.</h4>
 
   <hr style="border: 1px solid #66fcf1; width: 80%;">
 
